@@ -19,22 +19,22 @@ New Media & Society	305
 Information Communication & Society	185  	
 International Journal of Advertising	104  	
 Social Media + Society	104  
-Telecommunications Policy	89  	
-International Journal of Press-Politics	84  	
-Public Relations Review	66  	
-Communication Research	58	
+Telecommunications Policy	89  
+International Journal of Press-Politics	84   	
+Public Relations Review	66  
+Communication Research	58  
 Journal of Advertising	58	
 Media Psychology	54	
 Policy and Internet	50	
 Political Communication	50  
 Journal of Communication	38  
 Comunicar	36  
-Human Communication Research	36  
+Human Communication Research  36    
 Public Opinion Quarterly	35  
 Communication Theory	30  
 Journal of Public Relations Research	23  
 Science Communication	22  
-Journal of Computer-Mediated Communication	21  
+Journal of Computer-Mediated Communication	21   
 Research on Language and Social Interaction	18  
 Communication Methods and Measures	16  
 ——————————  
